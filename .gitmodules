@@ -1,0 +1,3 @@
+[submodule "Beer_Adviser"]
+	path = Beer_Adviser
+	url = https://github.com/vjacheslavkovalenko/Beer_Adviser
